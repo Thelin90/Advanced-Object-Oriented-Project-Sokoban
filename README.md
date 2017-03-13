@@ -1,4 +1,4 @@
-# Advanced-Object-Oriented-Project-Sokoban/-Tic-Tac-Toe
+# Advanced-Object-Oriented-Project-Sokoban/Tic-Tac-Toe
 
 Game Framwork with applications following MVC design pattern.
 
