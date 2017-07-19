@@ -6,4 +6,6 @@ Created Framework for 2D games, together with and application following the MVC 
 
 The framework handles user interactions, music player, map-building and much more.
 
+Please read the attached report to find out the details.
+
 Built in 3 weeks.
